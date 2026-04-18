@@ -1,0 +1,62 @@
+[
+  {
+    "city": "London",
+    "temp": 15,
+    "description": "Broken Clouds",
+    "searched_at": "06 Apr 2026, 10:41 PM"
+  },
+  {
+    "city": "Goa",
+    "temp": 30,
+    "description": "Clear Sky",
+    "searched_at": "06 Apr 2026, 02:56 PM"
+  },
+  {
+    "city": "Modhera",
+    "temp": 27,
+    "description": "Overcast Clouds",
+    "searched_at": "02 Apr 2026, 07:28 PM"
+  },
+  {
+    "city": "Rajasthan",
+    "temp": 30,
+    "description": "Overcast Clouds",
+    "searched_at": "02 Apr 2026, 07:28 PM"
+  },
+  {
+    "city": "Africa",
+    "temp": 33,
+    "description": "Light Rain",
+    "searched_at": "02 Apr 2026, 07:28 PM"
+  },
+  {
+    "city": "America",
+    "temp": 21,
+    "description": "Overcast Clouds",
+    "searched_at": "02 Apr 2026, 07:27 PM"
+  },
+  {
+    "city": "Bhavnagar",
+    "temp": 30,
+    "description": "Scattered Clouds",
+    "searched_at": "02 Apr 2026, 07:26 PM"
+  },
+  {
+    "city": "Tokyo",
+    "temp": 10,
+    "description": "Shower Rain",
+    "searched_at": "01 Apr 2026, 10:43 PM"
+  },
+  {
+    "city": "Texas",
+    "temp": 24,
+    "description": "Broken Clouds",
+    "searched_at": "01 Apr 2026, 10:42 PM"
+  },
+  {
+    "city": "Tal\u0101ja",
+    "temp": 27,
+    "description": "Overcast Clouds",
+    "searched_at": "01 Apr 2026, 10:42 PM"
+  }
+]
